@@ -1,0 +1,14 @@
+.deal{
+        font-family: Arial;
+        color: rgb(0, 0, 0);
+        font-weight: bold;
+        font-size: 30px;
+        margin-bottom: 5px;
+    }
+
+    .sales{
+        font-family: Arial;
+        color: red;
+        font-size: 20px;
+        margin-top: 0;
+    }

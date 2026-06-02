@@ -1,0 +1,42 @@
+.back-button{  
+        font-family: Arial;
+        color: rgb(0, 0, 0);
+        background-color: rgb(234, 230, 230);
+        border-color: rgb(224, 219, 219);
+        margin-right: 6px;
+        font-weight: bold;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+        border-radius: 5px;
+        margin-right: 10px;
+
+
+    }
+
+    .number-button{
+        color: rgb(100, 53, 222);
+        background-color: white;
+        border: none;
+        font-size: 15px;
+        font-weight: 400;
+        text-decoration: underline;
+        margin-right: 1px;
+    }
+
+    
+    .next-button{
+        font-family: Arial;
+        color: rgb(0, 0, 0);
+        background-color: rgb(234, 230, 230);
+        border-color: rgb(224, 219, 219);
+        margin-left: 6px;
+        font-weight: 550;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+        border-radius: 5px;
+        
+    }
