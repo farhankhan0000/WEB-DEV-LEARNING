@@ -1,0 +1,67 @@
+.back-to-amazon-para{
+    font-family: Arial;
+    color: rgb(45, 133, 240);
+    text-decoration: underline;
+    font-size: 20px;
+
+}
+
+.back-to-amazon-para:hover{
+    cursor: pointer;
+    color: rgb(143, 60, 8);
+}
+
+.nike-shoes{
+    font-family: Arial;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.price-stock{
+    color: rgb(7, 84, 4);
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.free-delivery{
+    color: rgb(0, 0, 0);
+    font-size: 26px;
+}
+
+.add-to-cart{
+    color: rgb(0, 0, 0);
+    background-color: rgb(254, 208, 22);
+    border: none;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 10px;
+}
+
+.buy-now{
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 152, 26);
+    border: none;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 30px;
+    padding-right: 35px;
+    padding-left: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.add-to-cart:hover{
+    cursor: pointer;
+    opacity: 0.4;
+}
+
+.buy-now:hover{
+    cursor: pointer;
+    opacity: 0.4;
+}
