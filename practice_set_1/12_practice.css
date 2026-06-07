@@ -1,0 +1,31 @@
+.email-line{
+    color: rgb(105, 105, 105);
+    font-size: 20px;
+}
+
+.search-bar{
+    font-size: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 0.8px;
+    padding-bottom: 0.8px;
+
+
+}
+
+.click-line{
+    color: rgb(105, 105, 105);
+    font-size: 20px;
+}
+
+.agree-button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(44, 101, 186);
+    border: none;
+    font-size: 20px;
+    padding-left: 190px;
+    padding-right: 190px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+}
