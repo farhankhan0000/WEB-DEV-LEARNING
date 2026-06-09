@@ -1,0 +1,26 @@
+.cat{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    vertical-align: middle;
+}
+
+.search-bar{
+    font-size: 25px;
+    border: none;
+    vertical-align: middle;
+
+}
+
+.tweet-button{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(74, 152, 232);
+    border: none;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-right: 21px;
+    padding-left: 21px;
+    border-radius: 20px;
+    vertical-align: middle;
+}
