@@ -1,0 +1,16 @@
+.title{
+    background-color: black;
+    width: 350px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.line1{
+    color: white;
+    font-size: 20px;
+}
+
+.line2{
+    color: rgb(163, 162, 163);
+}
