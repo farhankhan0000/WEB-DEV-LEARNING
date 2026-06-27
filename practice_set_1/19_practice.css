@@ -1,0 +1,39 @@
+.title{
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    width: 150px;
+    
+}
+
+.profile-picture{
+    width: 150px;
+    height: 150px;
+    margin-bottom: 0px;
+}
+
+.profile-name{
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 0px;
+}
+
+.mutual{
+    color: rgb(150, 151, 151);
+    margin-top: 4px;
+    margin-left: 5px;
+}
+
+.add-friends{
+    font-size: 15px;
+    color: white;
+    background-color: rgb(57, 116, 235);
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 4px;
+    border: none;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
